@@ -1,3 +1,5 @@
+# !!! This repository would be changed to private on 30th of September !!!
+
 # Tapper Demo
 
 A simple client and server pair (in an umbrella app), demonstrating:
